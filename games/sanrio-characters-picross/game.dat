@@ -1,0 +1,10 @@
+title = "Sanrio Characters Picross"
+description = "This is a puzzle game using Sanrio characters. Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! Or use them on game backgrounds! Enjoy Picross with your own background! It has been made by Jupiter and Sanrio."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001D3100"
+region = "eur"
+release_date = "2018-06-28"

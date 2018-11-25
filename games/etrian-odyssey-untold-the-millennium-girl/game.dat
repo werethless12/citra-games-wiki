@@ -6,4 +6,14 @@ needs_shared_font = false
 [[releases]]
 title = "00040000000EC700"
 region = "usa"
+release_date = "2013-10-01"
+
+[[releases]]
+title = "000400000010EB00"
+region = "eur"
+release_date = "2014-05-02"
+
+[[releases]]
+title = "00040000000CF800"
+region = "jpn"
 release_date = "2013-06-27"
